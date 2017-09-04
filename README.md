@@ -55,3 +55,8 @@ OR
 - Make sure the app is started
 - Press F5
 
+3. Run tests
+
+- Press `Cmd + Shift + P`
+- Type `Run Test Task` and select `Tasks: Run Test Task`
+- Select `npm test`
