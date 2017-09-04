@@ -38,3 +38,20 @@ Clone this repo on your local and enjoy the benefits of many integrations which 
     `cp -r path-to-ide-configurations-repo/web/vscode/extensions ~/.vscode/`
 2. Copy the `.vscode` folder to your project's root folder: 
     `cp -r path-to-ide-configurations-repo/web/vscode/.vscode root-of-project-you-working/`
+
+#### Shortcuts
+
+1. Prettify the file:
+
+```
+1. CMD + Shift + P -> Format Document
+OR
+1. Select the text you want to Prettify
+2. CMD + Shift + P -> Format Selection
+```
+
+2. Live debug the app:
+
+- Make sure the app is started
+- Press F5
+
