@@ -29,3 +29,8 @@ Clone this repo on your local and enjoy the benefits of many integrations which 
 3. Run tests
 
 - Press `option + ctrl + r` and select `Test`
+
+### Visual Studio Code
+
+1. Copy the `extensions` folder to your systems's `.vscode` folder - `cp -r path-to-ide-configurations-repo/web/vscode/extensions ~/.vscode/`
+2. Copy the `.vscode` folder to your project's root folder - `cp -r path-to-ide-configurations-repo/web/vscode/.vscode root-of-project-you-working/`
